@@ -40,7 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 **Clonar o repositório**
 - git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
 
-**Instale a extensão no navegador e deixe ativa**
+**Instale a extensão "Moesif Origin & CORS Changer" no navegador e deixe ativa**
 - [Chorme](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
 - [FireFox](https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
 
@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 **Instale o VSCode**
 - [Visual Studio Code](https://code.visualstudio.com/download/)
 
-**Instale a Extensão do VSCode chamada Live Server**
+**Instale a Extensão do VSCode "Live Server"**
  - Após instalada, clique com botão direito sobre o arquivo **index.html** e depois a opção **Open With Live Server**
 
 

@@ -1,10 +1,10 @@
 
 ---
-
+# Desenvolvimento Web com API Criptomoedas
 ---
 
 <h1>
-    <img src="https://github.com/AtilaMedeiros/appoperacaopolicial/blob/master/github/app.gif">
+    <img src="https://github.com/AtilaMedeiros/criptomoedasAPI-HTML-JavaScript/blob/main/img/web-list.png">
 </h1>
 
 
@@ -17,6 +17,8 @@
 ## 🔖&nbsp; Sobre
 
 Esse projeto foi modificado com o objetivo de pôs em prática o conhecimento adquirido em **manipular API com JavaScript** que apredi no curso **Desenvolvimento Web com API de Criptomoedas** da "Digital Innovation One",  ministado pela professora Bárbara Casac. 
+
+Aproveitei a oportunidade para acrescentar o atributo **first_historical_data**, retaforei o código e a estrutura do projeto.
 
 ---
 
@@ -37,24 +39,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     # Clonar o repositório
     $ git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
 
-    # Entrar no diretório
-    $ cd appoperacaopolicial
+    # Instale a extensão no navegador e deixe ativa
+    - [Chorme] (https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+    - [FireFox] https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
 
-    # Instalar as dependências
-    $ pip install -r requirements.txt
 
-    # Crie o banco e tabelas
-    $ python3 manage.py migrate
-    $ python3 manage.py makemigrations
+    # Instale o VSCode
+    - [Visual Studio Code] (https://code.visualstudio.com/download)
 
-    # Crie o usuário
-    $ python3 manage.py createsuperuser
+    # Instale a Extensão do VSCode Live Server
+    $ Após instalada, clique com botão direito sobre o arquivo index.html e depois a opção **Open With Live Server**
+    
 
-    # Iniciar o projeto
-    $ python manage.py runserver
-
-    # Clique no link abaixo:
-    $ http://127.0.0.1:8000/admin
 ```
-
 ---
+
+By Átila Medeiros Lavor

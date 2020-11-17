@@ -41,7 +41,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
     # Instale a extensão no navegador e deixe ativa
     - [Chorme] (https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
-    - [FireFox] https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
+    - [FireFox] (https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
 
 
     # Instale o VSCode

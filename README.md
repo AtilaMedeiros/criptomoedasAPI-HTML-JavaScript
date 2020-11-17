@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## 🗂 Como baixar o projeto
 
-```bash
+
 
     # Clonar o repositório
     $ git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
@@ -51,7 +51,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ Após instalada, clique com botão direito sobre o arquivo index.html e depois a opção **Open With Live Server**
     
 
-```
 ---
 
 By Átila Medeiros Lavor

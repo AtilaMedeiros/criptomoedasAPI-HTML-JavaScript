@@ -13,5 +13,10 @@ buscandoDados = () => {
         .then (json => {
            return  json
         })
+        .catch((error) => {
+            console.error('Erro tratado pelo catch: ' + error.message);
+        });
+
+        
 }
 

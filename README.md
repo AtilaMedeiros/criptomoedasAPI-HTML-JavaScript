@@ -26,9 +26,9 @@ Aproveitei a oportunidade para acrescentar o atributo **first_historical_data**,
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [CSS]
-- [HTML]
-- [JavaScript]
+- CSS
+- HTML
+- JavaScript
 - [Visual Studio Code](https://code.visualstudio.com/download/)
 
 ---
@@ -36,18 +36,18 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## 🗂 Como baixar o projeto
 
 **Clonar o repositório**
-    - git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
+- git clone https://github.com/AtilaMedeiros/appoperacaopolicial.git
 
 **Instale a extensão no navegador e deixe ativa**
-    - [Chorme](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
-    - [FireFox](https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
+- [Chorme](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+- [FireFox](https://addons.mozilla.org/en-US/firefox/addon/moesif-origin-cors-changer1/)
 
 
 **Instale o VSCode**
-    - [Visual Studio Code](https://code.visualstudio.com/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download/)
 
 **Instale a Extensão do VSCode Live Server**
-    - Após instalada, clique com botão direito sobre o arquivo index.html e depois a opção **Open With Live Server**
+ - Após instalada, clique com botão direito sobre o arquivo index.html e depois a opção **Open With Live Server**
 
 
 

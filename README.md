@@ -17,7 +17,7 @@
 ## 🔖&nbsp; Sobre
 
 
-Esse projeto foi modificado com o objetivo de pôs em prática o conhecimento adquirido em **manipular API com JavaScript** que aprendi no curso **Desenvolvimento Web com API de Criptomoedas** da "Digital Innovation One",  ministrado pela professora Bárbara Casac. 
+Esse projeto foi modificado com o objetivo de pôr em prática o conhecimento adquirido em **manipular API com JavaScript** que aprendi no curso **Desenvolvimento Web com API de Criptomoedas** da "Digital Innovation One",  ministrado pela professora Bárbara Casac. 
 
 Aproveitei a oportunidade para acrescentar o atributo **first_historical_data**, reescrevi o código e a estrutura do projeto.
 
